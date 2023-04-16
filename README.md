@@ -1,4 +1,4 @@
-api-filmes-react
+API Filmes em React
 <br>
 Projeto criado em React que faz o consumo de uma api do The Movie Database API
 
